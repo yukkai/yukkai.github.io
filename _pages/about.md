@@ -54,11 +54,6 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Center for Biomedical Image Computing and Analytics](https://www.med.upenn.edu/cbica/) (CBICA), [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). And My research mainly focuses on medical image and signal analysis for healthcare.
 
 
-## Education
-* Ph.D in 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 ## Work experience
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -74,7 +69,12 @@ Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Center for Biomedical Image Co
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+## Education
+* Ph.D in 
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
 ## Skills
 * Skill 1
 * Skill 2
