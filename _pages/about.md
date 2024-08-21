@@ -51,4 +51,4 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 
 
-Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Center for Biomedical Image Computing and Analytics]((https://www.med.upenn.edu/cbica/)) (CBICA), [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). And My research mainly focuses on medical image and signal analysis for healthcare.
+Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Center for Biomedical Image Computing and Analytics](https://www.med.upenn.edu/cbica/) (CBICA), [Perelman School of Medicine](https://www.med.upenn.edu/), [University of Pennsylvania](https://www.upenn.edu/). And My research mainly focuses on medical image and signal analysis for healthcare.
