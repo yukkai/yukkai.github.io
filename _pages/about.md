@@ -55,30 +55,40 @@ Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Center for Biomedical Image Co
 
 
 ## Work experience
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr. 2024 – present: Postdoctoral Researcher
+  * [Department of Radiology, University of Pennsylvania](https://www.pennmedicine.org/departments-and-centers/department-of-radiology)
+  * Duties includes: conducting research on deep learning algorithms for medical image analysis, focusing on segmentation and prediction.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept. 2022 – Mar. 2024: Research Scientist & Innovation Lead
+  * [Institute of High Performance Computing (IHPC), A*STAR](https://www.a-star.edu.sg/ihpc)
+  * Duties included: collaborating with multiple global technology companies to align project requirements and conducting research and development on multimodal foundation model algorithms in ophthalmology and other medical areas.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2020 – Aug. 2022: Research Scientist
+  * [Children’s Hospital Zhejiang University School of Medicine (ZCH)](https://en.zjuch.cn/)
+  * Duties included: developing and applying screening and diagnostic algorithms for congenital heart disease in children, based on heart sound signals, ultrasound images and videos, and three-dimensional CT scans.
+
+* Jan. 2016 – Dec. 2019: Co-Founder, AI R&D Lead
+  * [Suzhou BigVision Medical Technology Co.,Ltd](https://en.bigvisiontech.com/)
+  * Duties included: leading the development and application of in-house OCT device algorithms, focusing on automatic analysis of fundus and OCT images (denoising, segmentation, classification, report generation). Responsibilities also encompass collaborating with partner hospitals on algorithm and product development, and participating in medical device certification processes.
 
 ## Education
-* Ph.D in 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Sept. 2014 – Jun. 2020. Soochow University, Suzhou, China.
+* Sept. 2010 – Jun. 2014. Zhejiang Sci-Tech University, Hangzhou, China. 2014
 
-## Skills
+## Awards
+* 2022, Science and Technology Progress Award of Zhejiang Province.
+* 2020, First Prize in CAAI Wu Wenjun AI Science and Technology Award (The highest award for intelligent science and technology in China).
+* 2018, National Scholarship for Doctoral Students.
+* 2018, International Competition of Fundus Edema Lesion Automatic Segmentation from AI-Challenger (3rd place in biweekly competition and 4th place in the final).
+
+## Highlight of Qualifications
+* Extensive experience in medical signal and image processing (CT, PET, OCT, MRI, Heart Sounds, Echocardiography, etc.).
+* Skilled in deep learning frameworks like Pytorch for medical imaging and equipped with advanced Python and C++ expertise, adept at addressing real-world clinical challenges.
+* Research interests include Parameter-Efficient Learning, Federated Learning, Multimodal Foundation Models, and Large Language Models.
+<!-- ## Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
