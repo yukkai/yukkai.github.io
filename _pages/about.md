@@ -57,7 +57,7 @@ Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Center for Biomedical Image Co
 ## Work experience
 * Apr. 2024 – present: Postdoctoral Researcher
   * [Department of Radiology, University of Pennsylvania](https://www.pennmedicine.org/departments-and-centers/department-of-radiology)
-  * Duties includes: conducting research on deep learning algorithms for medical image analysis, focusing on segmentation and prediction.
+  * Duties include: conducting research on deep learning algorithms for medical image analysis, focusing on segmentation and prediction.
 
 * Sept. 2022 – Mar. 2024: Research Scientist & Innovation Lead
   * [Institute of High Performance Computing (IHPC), A*STAR](https://www.a-star.edu.sg/ihpc)
