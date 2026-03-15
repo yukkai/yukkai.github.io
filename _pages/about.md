@@ -51,8 +51,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 
 
-Hi, I’m Kai Yu, a Postdoctoral Researcher in the [Division of Computational Health Sciences](https://med.umn.edu/surgery/divisions/computational-health-sciences), [Department of Surgery](https://med.umn.edu/surgery), at the [University of Minnesota](https://twin-cities.umn.edu/). I work on multimodal AI for healthcare, with a focus on medical imaging, biomedical signal analysis, clinical natural language processing, and intelligent systems for clinical decision support.
-
+Hi, I’m Kai Yu, a Postdoctoral Associate in the [Division of Computational Health Sciences](https://med.umn.edu/surgery/divisions/computational-health-sciences), [Department of Surgery](https://med.umn.edu/surgery), at the [University of Minnesota](https://twin-cities.umn.edu/). My research focuses on multimodal AI for healthcare, spanning medical imaging, biomedical signal analysis, clinical natural language processing, and intelligent systems for clinical decision support.
 
 ## Work Experience
 
@@ -91,14 +90,14 @@ Hi, I’m Kai Yu, a Postdoctoral Researcher in the [Division of Computational He
 * **2023–2025** — **Co-PI**, Science Translational & Applied Research (STAR) I Grant (**100K SGD**)  
   Embedding AI in detecting and classifying CT artifacts for initial quality and adequacy assessment
 
-* **2022** — **PI**, AI3 Horizontal Technology Coordinating Offices Seed Fund 2022 (**300K SGD**, shortlisted)  
+* **2022** — **PI**, AI3 Horizontal Technology Coordinating Offices Seed Fund 2022 (**300K SGD**, shortlisted proposal)  
   Sparse-shot hierarchical entity graph learning for gigapixel digital pathology images
 
 * **2022–2024** — **PI**, Natural Science Foundation of Zhejiang Province (**100K CNY**)  
   Key technology for quantitative retinal analysis of high myopia in children and teenagers based on dual-modality medical images
 
 * **2022–2024** — **Co-PI**, Key Project of the Natural Science Foundation of Zhejiang Province (**1M CNY**)  
-  Research and application of new technology for screening and diagnosis of congenital heart disease in newborns under the collaborative environment of edge cloud and chain
+  Research and application of new technology for screening and diagnosis of congenital heart disease in newborns under the collaborative environment of edge cloud chain
 
 * **2022–2024** — **Co-PI**, Key Project of the Natural Science Foundation of Zhejiang Province (**100K CNY**)  
   Establishment and clinical study of a new AI-based ultrasound screening technology for congenital heart disease in newborns
