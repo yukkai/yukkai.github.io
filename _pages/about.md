@@ -51,40 +51,51 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 
 
-Hi, I'm Kai Yu, a Postdoctoral Researcher at the [Division of Computational Health Sciences](https://med.umn.edu/surgery/divisions/computational-health-sciences), [Department of Surgery](https://med.umn.edu/surgery), [University of Minnesota](https://twin-cities.umn.edu/). And My research mainly focuses on Multimodal AI for healthcare, medical image and signal analysis, and clinical NLP.
+Hi, I’m Kai Yu, a Postdoctoral Researcher in the [Division of Computational Health Sciences](https://med.umn.edu/surgery/divisions/computational-health-sciences), [Department of Surgery](https://med.umn.edu/surgery), at the [University of Minnesota](https://twin-cities.umn.edu/). I work on multimodal AI for healthcare, with a focus on medical imaging, biomedical signal analysis, clinical natural language processing, and intelligent systems for clinical decision support.
 
 
-## Work experience
-* Apr. 2024 – present: Postdoctoral Researcher
-  * [Department of Radiology, University of Pennsylvania](https://www.pennmedicine.org/departments-and-centers/department-of-radiology)
-  * Duties include: conducting research on deep learning algorithms for medical image analysis, focusing on segmentation and prediction.
+## Work Experience
 
-* Sept. 2022 – Mar. 2024: Research Scientist & Innovation Lead
-  * [Institute of High Performance Computing (IHPC), A*STAR](https://www.a-star.edu.sg/ihpc)
-  * Duties included: collaborating with multiple global technology companies to align project requirements and conducting research and development on multimodal foundation model algorithms in ophthalmology and other medical areas.
+* **Apr. 2025 – Present:** **Postdoctoral Associate**  
+  [Division of Computational Health Sciences, Department of Surgery, University of Minnesota, Minneapolis, MN, USA](https://med.umn.edu/surgery/divisions/computational-health-sciences)  
+  Research on multimodal AI for healthcare, with a focus on medical imaging, clinical NLP, and foundation models for clinical decision support.
 
-* Aug. 2020 – Aug. 2022: Research Scientist
-  * [Children’s Hospital Zhejiang University School of Medicine (ZCH)](https://en.zjuch.cn/)
-  * Duties included: developing and applying screening and diagnostic algorithms for congenital heart disease in children, based on heart sound signals, ultrasound images and videos, and three-dimensional CT scans.
+* **Apr. 2024 – Apr. 2025:** **Postdoctoral Researcher**  
+  [Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA](https://www.pennmedicine.org/departments-and-centers/department-of-radiology)  
+  Conducted research on AI methods for medical imaging and radiological data analysis, including image understanding, prediction, and clinical applications.
 
-* Jan. 2016 – Dec. 2019: Co-Founder, AI R&D Lead
-  * [Suzhou BigVision Medical Technology Co.,Ltd](https://en.bigvisiontech.com/)
-  * Duties included: leading the development and application of in-house OCT device algorithms, focusing on automatic analysis of fundus and OCT images (denoising, segmentation, classification, report generation). Responsibilities also encompass collaborating with partner hospitals on algorithm and product development, and participating in medical device certification processes.
+* **Sept. 2022 – Mar. 2024:** **Research Scientist & Innovation Lead**  
+  [Institute of High Performance Computing (IHPC), A*STAR, Singapore](https://www.a-star.edu.sg/ihpc)  
+  Led research and development on multimodal foundation models in ophthalmology and related medical domains, while collaborating with global technology partners to translate research into practical applications.
+
+* **Aug. 2020 – Aug. 2022:** **Research Scientist**  
+  [Children’s Hospital Zhejiang University School of Medicine, Hangzhou, China](https://en.zjuch.cn/)  
+  Developed AI methods for screening and diagnosis of congenital heart disease using heart sound signals, ultrasound images and videos, and 3D CT data.
+
+* **Jan. 2016 – Dec. 2019:** **Co-Founder, AI R&D Lead**  
+  [Suzhou BigVision Medical Technology Co., Ltd., Suzhou, China](https://en.bigvisiontech.com/)  
+  Led the development of AI algorithms for OCT and fundus imaging, including denoising, segmentation, classification, and report generation, and worked with partner hospitals on product development and medical device certification.
+
 
 ## Education
-* Sept. 2014 – Jun. 2020. Soochow University, Suzhou, China.
-* Sept. 2010 – Jun. 2014. Zhejiang Sci-Tech University, Hangzhou, China. 2014
+* **Ph.D. in Medical Image Processing and Analysis**, Soochow University, Suzhou, China, Sept. 2014 – Jun. 2020  
+  Advisor: Prof. Xinjian Chen
 
-## Awards
-* 2022, Science and Technology Progress Award of Zhejiang Province.
-* 2020, First Prize in CAAI Wu Wenjun AI Science and Technology Award (The highest award for intelligent science and technology in China).
-* 2018, National Scholarship for Doctoral Students.
-* 2018, International Competition of Fundus Edema Lesion Automatic Segmentation from AI-Challenger (3rd place in biweekly competition and 4th place in the final).
+* **B.S. in Electronic Information Engineering**, Zhejiang Sci-Tech University, Hangzhou, China, Sept. 2010 – Jun. 2014
 
+<!--  -->
+## Awards and Honors
+* **2023** — Third Prize, Science and Technology Achievement Award, China Birth Defects Intervention Relief Foundation
+* **2022** — Third Prize, Science and Technology Progress Award of Zhejiang Province
+* **2020** — First Prize, CAAI Wu Wenjun Artificial Intelligence Science and Technology Award
+* **2018** — National Scholarship for Doctoral Students
+* **2018** — AI Challenger: Fundus Edema Lesion Automatic Segmentation Competition, 3rd place in the biweekly competition and 4th place in the final
+
+<!-- 
 ## Highlight of Qualifications
 * Extensive experience in medical signal and image processing (CT, PET, OCT, MRI, Heart Sounds, Echocardiography, etc.).
 * Skilled in deep learning frameworks like Pytorch for medical imaging and equipped with advanced Python and C++ expertise, adept at addressing real-world clinical challenges.
-* Research interests include Parameter-Efficient Learning, Federated Learning, Multimodal Foundation Models, and Large Language Models.
+* Research interests include Parameter-Efficient Learning, Federated Learning, Multimodal Foundation Models, and Large Language Models. -->
 
 <!-- ## Skills
 * Skill 1
