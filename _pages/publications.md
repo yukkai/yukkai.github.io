@@ -38,9 +38,9 @@ Service and leadership
 ### 2025
 * **Kai Yu**, et al. Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review. npj Digital Medicine, Under Review. (**First Author**)
 * Zaifu Zhan, Shuang Zhou, Ming Zeng, **Kai Yu**, et al. Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation. preprint, 2025.
-* chunmei Feng, **Kai Yu**. et al. Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
+* Chunmei Feng, **Kai Yu**. et al. Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 * Da Soh Zhi, Yang Bai, **Kai Yu**. et al. An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care. Cell Reports Medicine. 
-* Meng Wang, Tian Lin, **Kai Yu**. et al. Enhancing diagnostic accuracy in rare and common fundus diseases with a knowledge-rich vision-language model. Cell Nature Communications. 
+* Meng Wang, Tian Lin, **Kai Yu**. et al. Enhancing diagnostic accuracy in rare and common fundus diseases with a knowledge-rich vision-language model. Nature Communications. 
 
 
 ### 2024
