@@ -31,54 +31,61 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
+### 2026
+* **Kai Yu**, et al. Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review. npj Digital Medicine, Under Review, 2026. (**First Author**)
+* **Kai Yu**, et al. AI enabled decision support systems in epilepsy surgery a scoping review. npj Health Systems, Under Review, 2026. (**First Author**)
+* Shuang Zhou, **Kai Yu**, et al. HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology. Nature Communications, Under Review, 2026.
+
+### 2025
+* Zaifu Zhan, Shuang Zhou, Ming Zeng, **Kai Yu**, et al. Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation. preprint, 2025.
+* chunmei Feng, **Kai Yu**. et al. Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
+* Da Soh Zhi, Yang Bai, **Kai Yu**. et al. An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care. Cell Reports Medicine. 
+* Meng Wang, Tian Lin, **Kai Yu**. et al. Enhancing diagnostic accuracy in rare and common fundus diseases with a knowledge-rich vision-language model. Cell Nature Communications. 
+
 
 ### 2024
 
-* **Kai Yu**, et al. "UrFound: Towards Universal Retinal Foundation Models via Knowledge-Guided Masked Modeling." International Conference on Medical Image Computing and Computer Assisted Intervention, 2024. [arxiv.org](https://arxiv.org/abs/2408.05618v1).
+* **Kai Yu**, et al. "UrFound: Towards Universal Retinal Foundation Models via Knowledge-Guided Masked Modeling." International Conference on Medical Image Computing and Computer Assisted Intervention. [arxiv.org](https://arxiv.org/abs/2408.05618v1).
 
-* Meng Wang<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Reliable Federated Disentangling Network for Non-IID Domain Feature." IEEE Transactions on Big Data, 2024. [ieee.org](https://ieeexplore.ieee.org/document/10587114).  (**Co-first Author**)
+* Meng Wang<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Reliable Federated Disentangling Network for Non-IID Domain Feature." IEEE Transactions on Big Data. [ieee.org](https://ieeexplore.ieee.org/document/10587114).  (**Co-first Author**)
 
-* Meng Wang<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Reliable segmentation of multiple lesions from medical images." Medical Physics, 2024. [wiley.com](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17244?casa_token=60EgSJbI1h4AAAAA%3A4DpYaABDftk4QuaZbiHqdPnutv1WA5a6hnDEmYxjgFWaGnlwWSUudwFSDTWjQCn-NFZzbGPS9GruVE8). (**Co-first Author**)
+* Meng Wang<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Reliable segmentation of multiple lesions from medical images." Medical Physics. [wiley.com](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17244?casa_token=60EgSJbI1h4AAAAA%3A4DpYaABDftk4QuaZbiHqdPnutv1WA5a6hnDEmYxjgFWaGnlwWSUudwFSDTWjQCn-NFZzbGPS9GruVE8). (**Co-first Author**)
 
-* Chunmei Feng, Yunlu Yan, **Kai Yu**, et al. "Exploring Separable Attention for Multi-contrast MR Image Super-resolution." IEEE Transactions on Neural Networks and Learning Systems, 2024. [ieee.org](https://ieeexplore.ieee.org/document/10443261).
+* Chunmei Feng, Yunlu Yan, **Kai Yu**, et al. "Exploring Separable Attention for Multi-contrast MR Image Super-resolution." IEEE Transactions on Neural Networks and Learning Systems. [ieee.org](https://ieeexplore.ieee.org/document/10443261).
 
-* Meng Wang, Tian Lin, **Kai Yu**, et al. "Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases." arXiv preprint arXiv:2406.09317, 2024. [arxiv.org](https://arxiv.org/pdf/2406.09317).
-
-* **Kai Yu**, et al. "A Collaborative Multi-view Network for Heart Sound Auscultation Among Multiple Institutions." Under Review, 2024.
-
-* Chunmei Feng, **Kai Yu**<sup>*</sup>, et al. "Text to Image for Multi-label Image Recognition with Joint Prompt-adapter Learning." openreview, 2024. [openreview](https://openreview.net/forum?id=5abK7RDbuW). (**Corresponding Author**)
+* Meng Wang, Tian Lin, **Kai Yu**, et al. "Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases." arXiv preprint arXiv:2406.09317. [arxiv.org](https://arxiv.org/pdf/2406.09317).
 
 ---
 
 ### 2023
 
-* Chunmei Feng, **Kai Yu**<sup>*</sup>, et al. "Towards Instance-adaptive Inference for Federated Learning." Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023. [thecvf.com](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Towards_Instance-adaptive_Inference_for_Federated_Learning_ICCV_2023_paper.pdf). (**Corresponding Author**)
+* Chunmei Feng, **Kai Yu**<sup>*</sup>, et al. "Towards Instance-adaptive Inference for Federated Learning." Proceedings of the IEEE/CVF International Conference on Computer Vision. [thecvf.com](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Towards_Instance-adaptive_Inference_for_Federated_Learning_ICCV_2023_paper.pdf). (**Corresponding Author**)
 
-* Chunmei Feng, **Kai Yu**<sup>*</sup>, et al. "Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning." Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023. [thecvf.com](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf). (**Corresponding Author**)
+* Chunmei Feng, **Kai Yu**<sup>*</sup>, et al. "Diverse Data Augmentation with Diffusions for Effective Test-Time Prompt Tuning." Proceedings of the IEEE/CVF International Conference on Computer Vision. [thecvf.com](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Diverse_Data_Augmentation_with_Diffusions_for_Effective_Test-time_Prompt_Tuning_ICCV_2023_paper.pdf). (**Corresponding Author**)
 
-* Yuhe Shen, Jiang Li, Weifang Zhu, **Kai Yu**, et al. "Graph Attention U-Net for Retinal Layer Surface Detection and Choroid Neovascularization Segmentation in OCT Images." IEEE Transactions on Medical Imaging, 2023. [ieee.org](https://ieeexplore.ieee.org/document/10032187).
+* Yuhe Shen, Jiang Li, Weifang Zhu, **Kai Yu**, et al. "Graph Attention U-Net for Retinal Layer Surface Detection and Choroid Neovascularization Segmentation in OCT Images." IEEE Transactions on Medical Imaging. [ieee.org](https://ieeexplore.ieee.org/document/10032187).
 
-* Meng Wang, Tian Lin, Yuanyuan Peng, Weifang Zhu, Fei Shi, **Kai Yu**, et al. "Self-Guided Optimization Semi-supervised Method for Joint Segmentation of Macular Hole and Cystoid Macular Edema in Retinal OCT Images." IEEE Transactions on Biomedical Engineering, 2023. [ieee.org](https://ieeexplore.ieee.org/document/10005596).
+* Meng Wang, Tian Lin, Yuanyuan Peng, Weifang Zhu, Fei Shi, **Kai Yu**, et al. "Self-Guided Optimization Semi-supervised Method for Joint Segmentation of Macular Hole and Cystoid Macular Edema in Retinal OCT Images." IEEE Transactions on Biomedical Engineering. [ieee.org](https://ieeexplore.ieee.org/document/10005596).
 
 ---
 
 ### 2022
 
-* Meng Wang<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Tiny-lesion Segmentation in OCT Via Multi-Scale Wavelet Enhanced Transformer." International Workshop on Ophthalmic Medical Image Analysis, MICCAI, 2022. [google.com](https://drive.google.com/file/d/1jCV_5BEi-e4s94fuSiVXfLTriREZHsS-/view?pli=1). (**Co-first Author**)
+* Meng Wang<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Tiny-lesion Segmentation in OCT Via Multi-Scale Wavelet Enhanced Transformer." International Workshop on Ophthalmic Medical Image Analysis, MICCAI. [google.com](https://drive.google.com/file/d/1jCV_5BEi-e4s94fuSiVXfLTriREZHsS-/view?pli=1). (**Co-first Author**)
 
-* Weize Xu<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Automatic Pediatric Congenital Heart Disease Classification Based on Heart Sound Signal." Artificial Intelligence in Medicine, 2022. [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0933365722000227?casa_token=57gFG8V84fgAAAAA:QCnYd_B_YdparC3TVORMozf0bcofEFFSin8za1eEbZNdyqY2_c4Y342mhFU7Zcl4Va2HsfIfqw). (**Co-first Author**)
+* Weize Xu<sup>1</sup>, **Kai Yu**<sup>1</sup>, et al. "Automatic Pediatric Congenital Heart Disease Classification Based on Heart Sound Signal." Artificial Intelligence in Medicine. [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0933365722000227?casa_token=57gFG8V84fgAAAAA:QCnYd_B_YdparC3TVORMozf0bcofEFFSin8za1eEbZNdyqY2_c4Y342mhFU7Zcl4Va2HsfIfqw). (**Co-first Author**)
 
 ---
 
 ### 2021
 
-* Yi Zhou, **Kai Yu**, et al. "Speckle Noise Reduction for OCT Images Based on Image Style Transfer and Conditional GAN." IEEE Journal of Biomedical and Health Informatics, 2021.
+* Yi Zhou, **Kai Yu**, et al. "Speckle Noise Reduction for OCT Images Based on Image Style Transfer and Conditional GAN." IEEE Journal of Biomedical and Health Informatics.
 
-* Meng Wang, Weifang Zhu, **Kai Yu**, et al. "Semi-Supervised Capsule cGAN for Speckle Noise Reduction in Retinal OCT Images." IEEE Transactions on Medical Imaging, 2021.
+* Meng Wang, Weifang Zhu, **Kai Yu**, et al. "Semi-Supervised Capsule cGAN for Speckle Noise Reduction in Retinal OCT Images." IEEE Transactions on Medical Imaging.
 
-* Meng Wang, Weifang Zhu, Fei Shi, Jinzhu Su, Haoyu Chen, **Kai Yu**, et al. "MsTGANet: Automatic Drusen Segmentation from Retinal OCT Images." IEEE Transactions on Medical Imaging, 2021.
+* Meng Wang, Weifang Zhu, Fei Shi, Jinzhu Su, Haoyu Chen, **Kai Yu**, et al. "MsTGANet: Automatic Drusen Segmentation from Retinal OCT Images." IEEE Transactions on Medical Imaging.
 
-* Yuanyuan Peng, Weifang Zhu, Zhongyue Chen, Meng Wang, Le Geng, **Kai Yu**, et al. "Automatic Staging for Retinopathy of Prematurity with Deep Feature Fusion and Ordinal Classification Strategy." IEEE Transactions on Medical Imaging, 2021.
+* Yuanyuan Peng, Weifang Zhu, Zhongyue Chen, Meng Wang, Le Geng, **Kai Yu**, et al. "Automatic Staging for Retinopathy of Prematurity with Deep Feature Fusion and Ordinal Classification Strategy." IEEE Transactions on Medical Imaging.
 
 ---
 

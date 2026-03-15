@@ -57,7 +57,7 @@ Hi, I’m Kai Yu, a Postdoctoral Associate in the [Division of Computational Hea
 
 * **Apr. 2025 – Present:** **Postdoctoral Associate**  
   [Division of Computational Health Sciences, Department of Surgery, University of Minnesota, Minneapolis, MN, USA](https://med.umn.edu/surgery/divisions/computational-health-sciences)  
-  Research on multimodal AI for healthcare, with a focus on medical imaging, clinical NLP, and foundation models for clinical decision support.
+  Conducting research on multimodal AI for healthcare, with a focus on medical imaging, clinical NLP, and foundation models for clinical decision support.
 
 * **Apr. 2024 – Apr. 2025:** **Postdoctoral Researcher**  
   [Department of Radiology, University of Pennsylvania, Philadelphia, PA, USA](https://www.med.upenn.edu/cbica/)  
