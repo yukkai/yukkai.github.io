@@ -32,11 +32,11 @@ Service and leadership
 * Currently signed in to 43 different slack teams -->
 
 ### 2026
-* **Kai Yu**, et al. Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review. npj Digital Medicine, Under Review, 2026. (**First Author**)
 * **Kai Yu**, et al. AI enabled decision support systems in epilepsy surgery a scoping review. npj Health Systems, Under Review, 2026. (**First Author**)
-* Shuang Zhou, **Kai Yu**, et al. HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology. Nature Communications, Under Review, 2026.
+* Shuang Zhou, **Kai Yu**, et al. HeartAgent: An Autonomous Agent System for Explainable Differential Diagnosis in Cardiology. Nature Communications, Under Review.
 
 ### 2025
+* **Kai Yu**, et al. Multimodal Artificial Intelligence Agents in Healthcare: A Scoping Review. npj Digital Medicine, Under Review. (**First Author**)
 * Zaifu Zhan, Shuang Zhou, Ming Zeng, **Kai Yu**, et al. Quantized Large Language Models in Biomedical Natural Language Processing: Evaluation and Recommendation. preprint, 2025.
 * chunmei Feng, **Kai Yu**. et al. Text to Image for Multi-Label Image Recognition with Joint Prompt-Adapter Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 * Da Soh Zhi, Yang Bai, **Kai Yu**. et al. An integrated language-vision foundation model for conversational diagnostics and triaging in primary eye care. Cell Reports Medicine. 
